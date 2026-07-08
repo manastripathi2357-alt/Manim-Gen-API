@@ -1,6 +1,6 @@
-# Animatrix AI Video Generator
+# ManimGen API Video Generator
 
-Animatrix is an AI-powered tool that generates animations and visual scenes based on text prompts. It uses Google's Gemini LLM to write Python scripts for the Manim Community library, which then renders math animations and visual content programmatically.
+ManimGen API is an AI-powered tool that generates animations and visual scenes based on text prompts. It uses Google's Gemini LLM to write Python scripts for the Manim Community library, which then renders math animations and visual content programmatically.
 
 ## Structure
 - `main.py`: The FastAPI server backend.
